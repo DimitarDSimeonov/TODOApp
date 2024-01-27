@@ -59,4 +59,4 @@ jobs:
           app-name: 'todoappmitko'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B78A741651514ABCBF33D0CCAC8A5860 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BF60EEAD3C0449F81AA7B8872489819 }}
